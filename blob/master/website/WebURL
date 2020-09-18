@@ -7,3 +7,5 @@ spring三级缓存解决循环依赖问题:https://cloud.tencent.com/developer/a
 mybatis二级缓存问题:https://www.cnblogs.com/51life/p/9529409.html
 
 ​				     https://blog.csdn.net/qq87034246/article/details/80198034
+
+动态数据源实现原理:https://www.jianshu.com/p/b2f818b742a2
